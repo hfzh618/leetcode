@@ -1,3 +1,7 @@
+"""
+题目链接：https://leetcode-cn.com/problems/squares-of-a-sorted-array/
+大致意思为输入一个有序的非递增序列，输出一个每个元素平方后的有序序列
+"""
 def sortedSquares(A):
     """
     :type A: List[int]
